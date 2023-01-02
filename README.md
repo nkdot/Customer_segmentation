@@ -1,1 +1,1 @@
-# Customer_segmentation
+# Marketing Analytics
